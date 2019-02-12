@@ -1,0 +1,297 @@
+iitg.ac.in
+64bytes
+PING 14.139.196.22 (14.139.196.22) 64(92) bytes of data.
+
+--- 14.139.196.22 ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19025ms
+rtt min/avg/max/mdev = 116.103/117.441/122.143/1.326 ms
+=====
+128bytes
+PING 14.139.196.22 (14.139.196.22) 128(156) bytes of data.
+
+--- 14.139.196.22 ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19026ms
+rtt min/avg/max/mdev = 116.147/118.878/166.894/11.019 ms
+=====
+256bytes
+PING 14.139.196.22 (14.139.196.22) 256(284) bytes of data.
+
+--- 14.139.196.22 ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19026ms
+rtt min/avg/max/mdev = 115.097/116.129/117.843/0.787 ms
+=====
+512bytes
+PING 14.139.196.22 (14.139.196.22) 512(540) bytes of data.
+
+--- 14.139.196.22 ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19024ms
+rtt min/avg/max/mdev = 115.167/116.902/128.506/3.799 ms
+=====
+768bytes
+PING 14.139.196.22 (14.139.196.22) 768(796) bytes of data.
+
+--- 14.139.196.22 ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19028ms
+rtt min/avg/max/mdev = 116.226/117.055/125.515/2.014 ms
+=====
+1024bytes
+PING 14.139.196.22 (14.139.196.22) 1024(1052) bytes of data.
+
+--- 14.139.196.22 ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19018ms
+rtt min/avg/max/mdev = 116.359/116.566/116.862/0.461 ms
+=====
+1280bytes
+PING 14.139.196.22 (14.139.196.22) 1280(1308) bytes of data.
+
+--- 14.139.196.22 ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19028ms
+rtt min/avg/max/mdev = 116.618/116.832/117.184/0.437 ms
+=====
+1536bytes
+PING 14.139.196.22 (14.139.196.22) 1536(1564) bytes of data.
+
+--- 14.139.196.22 ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19023ms
+rtt min/avg/max/mdev = 171.801/172.235/173.598/0.494 ms
+=====
+1792bytes
+PING 14.139.196.22 (14.139.196.22) 1792(1820) bytes of data.
+
+--- 14.139.196.22 ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19020ms
+rtt min/avg/max/mdev = 171.735/172.152/173.831/0.618 ms
+=====
+2048bytes
+PING 14.139.196.22 (14.139.196.22) 2048(2076) bytes of data.
+
+--- 14.139.196.22 ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19024ms
+rtt min/avg/max/mdev = 125.046/169.922/172.776/10.306 ms
+=====
+
+
+
+
+iitg.ac.in
+64bytes
+PING 14.139.196.22 (14.139.196.22) 64(92) bytes of data.
+
+--- 14.139.196.22 ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19020ms
+rtt min/avg/max/mdev = 114.947/208.284/980.396/256.687 ms
+=====
+128bytes
+PING 14.139.196.22 (14.139.196.22) 128(156) bytes of data.
+
+--- 14.139.196.22 ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19021ms
+rtt min/avg/max/mdev = 114.909/180.007/1048.871/201.172 ms, pipe 2
+=====
+256bytes
+PING 14.139.196.22 (14.139.196.22) 256(284) bytes of data.
+
+--- 14.139.196.22 ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19025ms
+rtt min/avg/max/mdev = 114.999/329.671/1833.131/434.471 ms, pipe 2
+=====
+512bytes
+PING 14.139.196.22 (14.139.196.22) 512(540) bytes of data.
+
+--- 14.139.196.22 ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19023ms
+rtt min/avg/max/mdev = 115.154/169.346/983.145/187.809 ms
+=====
+768bytes
+PING 14.139.196.22 (14.139.196.22) 768(796) bytes of data.
+
+--- 14.139.196.22 ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19026ms
+rtt min/avg/max/mdev = 115.256/118.285/166.088/10.985 ms
+=====
+1024bytes
+PING 14.139.196.22 (14.139.196.22) 1024(1052) bytes of data.
+
+--- 14.139.196.22 ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19030ms
+rtt min/avg/max/mdev = 116.363/120.052/157.446/10.126 ms
+=====
+1280bytes
+PING 14.139.196.22 (14.139.196.22) 1280(1308) bytes of data.
+
+--- 14.139.196.22 ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19031ms
+rtt min/avg/max/mdev = 115.536/116.090/116.943/0.614 ms
+=====
+1536bytes
+PING 14.139.196.22 (14.139.196.22) 1536(1564) bytes of data.
+
+--- 14.139.196.22 ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19026ms
+rtt min/avg/max/mdev = 137.153/168.075/171.629/9.044 ms
+=====
+1792bytes
+PING 14.139.196.22 (14.139.196.22) 1792(1820) bytes of data.
+
+--- 14.139.196.22 ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19003ms
+rtt min/avg/max/mdev = 170.688/236.749/831.895/197.326 ms
+=====
+2048bytes
+PING 14.139.196.22 (14.139.196.22) 2048(2076) bytes of data.
+
+--- 14.139.196.22 ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19021ms
+rtt min/avg/max/mdev = 170.609/204.939/832.425/143.956 ms
+=====
+
+
+@10 pm
+
+iitg.ac.in
+64bytes
+PING 14.139.196.22 (14.139.196.22) 64(92) bytes of data.
+
+--- 14.139.196.22 ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19028ms
+rtt min/avg/max/mdev = 117.175/117.696/119.072/0.636 ms
+=====
+128bytes
+PING 14.139.196.22 (14.139.196.22) 128(156) bytes of data.
+
+--- 14.139.196.22 ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19011ms
+rtt min/avg/max/mdev = 117.424/159.233/949.978/181.409 ms
+=====
+256bytes
+PING 14.139.196.22 (14.139.196.22) 256(284) bytes of data.
+
+--- 14.139.196.22 ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19027ms
+rtt min/avg/max/mdev = 117.332/223.307/970.809/263.803 ms
+=====
+512bytes
+PING 14.139.196.22 (14.139.196.22) 512(540) bytes of data.
+
+--- 14.139.196.22 ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19030ms
+rtt min/avg/max/mdev = 117.304/117.658/119.521/0.554 ms
+=====
+768bytes
+PING 14.139.196.22 (14.139.196.22) 768(796) bytes of data.
+
+--- 14.139.196.22 ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19030ms
+rtt min/avg/max/mdev = 117.454/117.678/118.065/0.495 ms
+=====
+1024bytes
+PING 14.139.196.22 (14.139.196.22) 1024(1052) bytes of data.
+
+--- 14.139.196.22 ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19035ms
+rtt min/avg/max/mdev = 117.465/343.863/1805.924/444.873 ms, pipe 2
+=====
+1280bytes
+PING 14.139.196.22 (14.139.196.22) 1280(1308) bytes of data.
+
+--- 14.139.196.22 ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19028ms
+rtt min/avg/max/mdev = 117.711/128.251/301.299/39.736 ms
+=====
+1536bytes
+PING 14.139.196.22 (14.139.196.22) 1536(1564) bytes of data.
+
+--- 14.139.196.22 ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19045ms
+rtt min/avg/max/mdev = 174.209/269.348/1593.873/319.378 ms, pipe 2
+=====
+1792bytes
+PING 14.139.196.22 (14.139.196.22) 1792(1820) bytes of data.
+
+--- 14.139.196.22 ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19012ms
+rtt min/avg/max/mdev = 174.226/174.471/174.720/0.514 ms
+=====
+2048bytes
+PING 14.139.196.22 (14.139.196.22) 2048(2076) bytes of data.
+
+--- 14.139.196.22 ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19041ms
+rtt min/avg/max/mdev = 173.105/365.708/1610.684/438.416 ms, pipe 2
+=====
+
+
+iitg.ac.in
+64bytes
+PING 14.139.196.22 (14.139.196.22) 64(92) bytes of data.
+
+--- 14.139.196.22 ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19024ms
+rtt min/avg/max/mdev = 116.095/116.443/118.050/0.581 ms
+=====
+128bytes
+PING 14.139.196.22 (14.139.196.22) 128(156) bytes of data.
+
+--- 14.139.196.22 ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19025ms
+rtt min/avg/max/mdev = 115.907/116.372/117.930/0.408 ms
+=====
+256bytes
+PING 14.139.196.22 (14.139.196.22) 256(284) bytes of data.
+
+--- 14.139.196.22 ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19025ms
+rtt min/avg/max/mdev = 116.090/116.331/116.656/0.400 ms
+=====
+512bytes
+PING 14.139.196.22 (14.139.196.22) 512(540) bytes of data.
+
+--- 14.139.196.22 ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19026ms
+rtt min/avg/max/mdev = 116.244/116.436/117.173/0.349 ms
+=====
+768bytes
+PING 14.139.196.22 (14.139.196.22) 768(796) bytes of data.
+
+--- 14.139.196.22 ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19029ms
+rtt min/avg/max/mdev = 116.364/116.754/118.760/0.621 ms
+=====
+1024bytes
+PING 14.139.196.22 (14.139.196.22) 1024(1052) bytes of data.
+
+--- 14.139.196.22 ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19027ms
+rtt min/avg/max/mdev = 116.481/116.939/117.898/0.454 ms
+=====
+1280bytes
+PING 14.139.196.22 (14.139.196.22) 1280(1308) bytes of data.
+
+--- 14.139.196.22 ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19009ms
+rtt min/avg/max/mdev = 116.668/118.005/122.758/1.186 ms
+=====
+1536bytes
+PING 14.139.196.22 (14.139.196.22) 1536(1564) bytes of data.
+
+--- 14.139.196.22 ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19022ms
+rtt min/avg/max/mdev = 173.963/174.641/178.963/1.220 ms
+=====
+1792bytes
+PING 14.139.196.22 (14.139.196.22) 1792(1820) bytes of data.
+
+--- 14.139.196.22 ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19023ms
+rtt min/avg/max/mdev = 174.078/174.828/179.837/1.380 ms
+=====
+2048bytes
+PING 14.139.196.22 (14.139.196.22) 2048(2076) bytes of data.
+
+--- 14.139.196.22 ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19022ms
+rtt min/avg/max/mdev = 172.985/173.665/175.102/0.690 ms
+=====
+
++++++++++++++++++++++++++++++++++++++++++++++++
+

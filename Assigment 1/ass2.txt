@@ -1,0 +1,50 @@
+PING youtube.com (172.217.167.142) 56(84) bytes of data.
+
+--- youtube.com ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19025ms
+rtt min/avg/max/mdev = 61.855/66.800/99.795/10.495 ms
+PING google.com (172.217.26.174) 56(84) bytes of data.
+
+--- google.com ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19029ms
+rtt min/avg/max/mdev = 63.500/63.899/64.285/0.357 ms
+PING bookmyshow.com (104.16.123.37) 56(84) bytes of data.
+
+--- bookmyshow.com ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 28101ms
+rtt min/avg/max/mdev = 62.321/62.547/62.898/0.205 ms
+PING nordvpn.com (104.20.17.34) 56(84) bytes of data.
+
+--- nordvpn.com ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 28097ms
+rtt min/avg/max/mdev = 62.126/64.806/107.961/9.908 ms
+PING digitalocean.com (104.16.109.208) 56(84) bytes of data.
+
+--- digitalocean.com ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 28096ms
+rtt min/avg/max/mdev = 62.193/62.653/65.278/0.676 ms
+PING youtube.com (216.58.196.174) 56(84) bytes of data.
+
+--- youtube.com ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19027ms
+rtt min/avg/max/mdev = 67.010/67.430/68.889/0.509 ms
+PING libgen.io (93.174.95.87) 56(84) bytes of data.
+
+--- libgen.io ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19020ms
+rtt min/avg/max/mdev = 214.785/215.468/221.731/1.551 ms
+PING bookmyshow.com (104.16.124.37) 56(84) bytes of data.
+
+--- bookmyshow.com ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 28103ms
+rtt min/avg/max/mdev = 66.168/66.503/67.013/0.240 ms
+PING 14.139.196.22 (14.139.196.22) 56(84) bytes of data.
+
+--- 14.139.196.22 ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19028ms
+rtt min/avg/max/mdev = 117.171/123.019/177.126/13.953 ms
+PING digitalocean.com (104.16.109.208) 56(84) bytes of data.
+
+--- digitalocean.com ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 28105ms
+rtt min/avg/max/mdev = 66.188/70.973/102.788/10.985 ms

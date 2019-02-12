@@ -1,0 +1,262 @@
+@12 pm
+
+youtube.com
+PING youtube.com (172.217.26.174) 56(84) bytes of data.
+
+--- youtube.com ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19021ms
+rtt min/avg/max/mdev = 66.563/66.872/67.352/0.324 ms
+=========
+libgen.io
+PING libgen.io (93.174.95.87) 56(84) bytes of data.
+
+--- libgen.io ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19042ms
+rtt min/avg/max/mdev = 214.977/259.150/1045.520/180.434 ms, pipe 2
+==========
+bookmyshow.com
+PING bookmyshow.com (104.16.123.37) 56(84) bytes of data.
+
+--- bookmyshow.com ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 28107ms
+rtt min/avg/max/mdev = 66.317/66.586/66.948/0.364 ms
+============
+iitg.ac.in
+PING 14.139.196.22 (14.139.196.22) 56(84) bytes of data.
+
+--- 14.139.196.22 ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19024ms
+rtt min/avg/max/mdev = 117.145/121.969/167.102/13.742 ms
+==============
+yandex.ru
+PING yandex.ru (77.88.55.88) 56(84) bytes of data.
+
+--- yandex.ru ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19019ms
+rtt min/avg/max/mdev = 215.042/218.559/222.340/3.425 ms
+=============
+
+==========
+bookmyshow.com
+64bytes
+PING bookmyshow.com (104.16.124.37) 64(92) bytes of data.
+
+--- bookmyshow.com ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 28103ms
+rtt min/avg/max/mdev = 66.177/68.930/115.935/10.790 ms
+=====
+128bytes
+PING bookmyshow.com (104.16.124.37) 128(156) bytes of data.
+
+--- bookmyshow.com ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 28118ms
+rtt min/avg/max/mdev = 66.301/223.517/1250.541/344.131 ms, pipe 2
+=====
+256bytes
+PING bookmyshow.com (104.16.123.37) 256(284) bytes of data.
+
+--- bookmyshow.com ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 28104ms
+rtt min/avg/max/mdev = 66.338/71.048/155.786/19.444 ms
+=====
+512bytes
+PING bookmyshow.com (104.16.124.37) 512(540) bytes of data.
+
+--- bookmyshow.com ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 28101ms
+rtt min/avg/max/mdev = 66.157/68.257/85.571/4.747 ms
+=====
+768bytes
+PING bookmyshow.com (104.16.123.37) 768(796) bytes of data.
+
+--- bookmyshow.com ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 28104ms
+rtt min/avg/max/mdev = 66.457/66.865/67.226/0.386 ms
+=====
+1024bytes
+PING bookmyshow.com (104.16.123.37) 1024(1052) bytes of data.
+
+--- bookmyshow.com ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 28089ms
+rtt min/avg/max/mdev = 66.620/77.159/272.900/44.906 ms
+=====
+1280bytes
+PING bookmyshow.com (104.16.123.37) 1280(1308) bytes of data.
+
+--- bookmyshow.com ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 28097ms
+rtt min/avg/max/mdev = 66.730/66.956/67.571/0.306 ms
+=====
+1536bytes
+PING bookmyshow.com (104.16.123.37) 1536(1564) bytes of data.
+
+--- bookmyshow.com ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 28200ms
+rtt min/avg/max/mdev = 124.156/409.291/1560.150/507.912 ms, pipe 2
+=====
+1792bytes
+PING bookmyshow.com (104.16.123.37) 1792(1820) bytes of data.
+
+--- bookmyshow.com ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 28142ms
+rtt min/avg/max/mdev = 110.830/123.781/125.216/3.004 ms
+=====
+2048bytes
+PING bookmyshow.com (104.16.124.37) 2048(2076) bytes of data.
+
+--- bookmyshow.com ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 28160ms
+rtt min/avg/max/mdev = 124.114/156.031/756.909/137.851 ms
+=====
+
+
+@5pm
+
+
+youtube.com
+PING 172.217.26.174 (172.217.26.174) 56(84) bytes of data.
+
+--- 172.217.26.174 ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19027ms
+rtt min/avg/max/mdev = 64.334/64.823/66.179/0.487 ms
+=========
+libgen.io
+PING 93.174.95.87 (93.174.95.87) 56(84) bytes of data.
+
+--- 93.174.95.87 ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19024ms
+rtt min/avg/max/mdev = 201.357/204.062/210.322/3.160 ms
+==========
+bookmyshow.com
+PING 104.16.123.37 (104.16.123.37) 56(84) bytes of data.
+
+--- 104.16.123.37 ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19026ms
+rtt min/avg/max/mdev = 80.665/81.290/83.326/0.696 ms
+============
+iitg.ac.in
+PING 14.139.196.22 (14.139.196.22) 56(84) bytes of data.
+
+--- 14.139.196.22 ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19022ms
+rtt min/avg/max/mdev = 115.995/116.260/116.784/0.261 ms
+==============
+yandex.ru
+PING 77.88.55.88 (77.88.55.88) 56(84) bytes of data.
+
+--- 77.88.55.88 ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19007ms
+rtt min/avg/max/mdev = 214.357/221.105/272.531/16.778 ms
+=============
+
+==========
+bookmyshow.com
+64bytes
+PING 104.16.123.37 (104.16.123.37) 64(92) bytes of data.
+
+--- 104.16.123.37 ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19024ms
+rtt min/avg/max/mdev = 80.789/94.112/150.350/22.299 ms
+=====
+128bytes
+PING 104.16.123.37 (104.16.123.37) 128(156) bytes of data.
+
+--- 104.16.123.37 ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19024ms
+rtt min/avg/max/mdev = 80.809/80.987/81.406/0.408 ms
+=====
+256bytes
+PING 104.16.123.37 (104.16.123.37) 256(284) bytes of data.
+
+--- 104.16.123.37 ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19022ms
+rtt min/avg/max/mdev = 80.890/84.492/144.984/13.911 ms
+=====
+512bytes
+PING 104.16.123.37 (104.16.123.37) 512(540) bytes of data.
+
+--- 104.16.123.37 ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19023ms
+rtt min/avg/max/mdev = 80.854/81.121/81.364/0.208 ms
+=====
+768bytes
+PING 104.16.123.37 (104.16.123.37) 768(796) bytes of data.
+
+--- 104.16.123.37 ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19038ms
+rtt min/avg/max/mdev = 81.093/322.250/1764.257/526.928 ms, pipe 2
+=====
+1024bytes
+PING 104.16.123.37 (104.16.123.37) 1024(1052) bytes of data.
+
+--- 104.16.123.37 ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19027ms
+rtt min/avg/max/mdev = 81.243/81.431/81.685/0.172 ms
+=====
+1280bytes
+PING 104.16.123.37 (104.16.123.37) 1280(1308) bytes of data.
+
+--- 104.16.123.37 ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19027ms
+rtt min/avg/max/mdev = 81.173/82.431/100.495/4.162 ms
+=====
+1536bytes
+PING 104.16.123.37 (104.16.123.37) 1536(1564) bytes of data.
+
+--- 104.16.123.37 ping statistics ---
+20 packets transmitted, 0 received, 100% packet loss, time 19447ms
+
+=====
+1792bytes
+PING 104.16.123.37 (104.16.123.37) 1792(1820) bytes of data.
+
+--- 104.16.123.37 ping statistics ---
+20 packets transmitted, 0 received, 100% packet loss, time 19440ms
+
+=====
+2048bytes
+PING 104.16.123.37 (104.16.123.37) 2048(2076) bytes of data.
+
+--- 104.16.123.37 ping statistics ---
+20 packets transmitted, 0 received, 100% packet loss, time 19432ms
+
+=====
+
+@10 pm
+youtube.com
+PING 172.217.26.174 (172.217.26.174) 56(84) bytes of data.
+
+--- 172.217.26.174 ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19025ms
+rtt min/avg/max/mdev = 66.690/66.988/67.643/0.241 ms
+=========
+libgen.io
+PING 93.174.95.87 (93.174.95.87) 56(84) bytes of data.
+
+--- 93.174.95.87 ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19041ms
+rtt min/avg/max/mdev = 205.925/335.457/1057.224/302.062 ms, pipe 2
+==========
+bookmyshow.com
+PING 104.16.123.37 (104.16.123.37) 56(84) bytes of data.
+
+--- 104.16.123.37 ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19028ms
+rtt min/avg/max/mdev = 64.330/64.614/65.428/0.410 ms
+============
+iitg.ac.in
+PING 14.139.196.22 (14.139.196.22) 56(84) bytes of data.
+
+--- 14.139.196.22 ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19054ms
+rtt min/avg/max/mdev = 116.126/475.082/1796.808/607.343 ms, pipe 2
+==============
+yandex.ru
+PING 77.88.55.88 (77.88.55.88) 56(84) bytes of data.
+
+--- 77.88.55.88 ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19029ms
+rtt min/avg/max/mdev = 214.546/214.870/215.456/0.277 ms
+=============
+
+==========

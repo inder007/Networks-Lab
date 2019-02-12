@@ -1,0 +1,8 @@
+17914 paused
+19059 play
+21092 paused
+23435 play
+25188 pause
+26706 play
+29919 refreshed
+37149 browser closed

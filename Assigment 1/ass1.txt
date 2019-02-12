@@ -1,0 +1,165 @@
+Ans 1.
+
+a. -c count
+b. -i interval
+c. -l preload, 3
+d. -s packetsize, 64 bytes data + 8 bytes ICMP header + 20 bytes IP header. 
+
+===============================
+
+
+Ans 2.
+
+@1 pm  -> (yahoo.com),twitter
+1. Youtube.com 
+PING youtube-ui.l.google.com (172.217.166.110) 56(84) bytes of data.
+
+--- youtube-ui.l.google.com ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19043ms
+rtt min/avg/max/mdev = 115.668/229.695/1077.338/228.223 ms, pipe 2
+
+
+2. google.co.uk
+
+PING www.google.co.uk (172.217.166.131) 56(84) bytes of data.
+
+--- www.google.co.uk ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19024ms
+rtt min/avg/max/mdev = 158.750/213.763/615.466/117.750 ms
+
+
+3. Flipkart.com -> bookmyshow.com
+(india)
+PING flipkart.com (163.53.78.128) 56(84) bytes of data.
+
+--- flipkart.com ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 28143ms
+rtt min/avg/max/mdev = 118.090/204.673/440.755/122.587 ms
+
+4. codeforces.com -> nordvpn
+(Russia)
+PING www.codeforces.com (212.193.33.27) 56(84) bytes of data.
+
+--- www.codeforces.com ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19002ms
+rtt min/avg/max/mdev = 399.705/497.607/918.222/176.010 ms
+
+
+5. digitalocean.com
+
+PING www.digitalocean.com (104.16.24.4) 56(84) bytes of data.
+
+--- www.digitalocean.com ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 28491ms
+rtt min/avg/max/mdev = 128.969/225.482/505.822/136.006 ms
+
+
+
+digitalocean.com
+
+1. 128 bytes
+
+PING www.digitalocean.com (104.16.25.4) 128(156) bytes of data.
+
+--- www.digitalocean.com ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 28254ms
+rtt min/avg/max/mdev = 119.094/200.036/756.690/170.935 ms
+
+
+2. 256 bytes
+
+PING www.digitalocean.com (104.16.24.4) 256(284) bytes of data.
+
+--- www.digitalocean.com ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 28316ms
+rtt min/avg/max/mdev = 110.831/358.862/1438.963/323.883 ms, pipe 2
+
+
+3. 512 bytes
+
+PING www.digitalocean.com (104.16.24.4) 512(540) bytes of data.
+
+--- www.digitalocean.com ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 28154ms
+rtt min/avg/max/mdev = 118.547/185.423/672.704/149.419 ms
+
+
+4. 768 bytes
+
+PING www.digitalocean.com (104.16.24.4) 768(796) bytes of data.
+
+--- www.digitalocean.com ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 28154ms
+rtt min/avg/max/mdev = 119.267/198.913/705.694/155.818 ms
+
+
+5. 1024 bytes
+
+PING www.digitalocean.com (104.16.25.4) 1024(1052) bytes of data.
+
+--- www.digitalocean.com ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 28395ms
+rtt min/avg/max/mdev = 119.724/593.432/1362.485/376.761 ms, pipe 2
+
+
+6. 1280 bytes
+
+PING www.digitalocean.com (104.16.24.4) 1280(1308) bytes of data.
+
+--- www.digitalocean.com ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 28156ms
+rtt min/avg/max/mdev = 119.218/221.268/676.283/166.174 ms
+
+
+7. 1536 bytes
+
+PING www.digitalocean.com (104.16.24.4) 1536(1564) bytes of data.
+
+--- www.digitalocean.com ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 28868ms
+rtt min/avg/max/mdev = 1169.026/3168.453/6568.588/1348.961 ms, pipe 4
+
+
+
+8. 1792 bytes
+
+PING www.digitalocean.com (104.16.25.4) 1792(1820) bytes of data.
+
+--- www.digitalocean.com ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 28258ms
+rtt min/avg/max/mdev = 122.897/348.490/994.400/222.423 ms
+
+
+9. 2048 bytes
+
+PING www.digitalocean.com (104.16.24.4) 2048(2076) bytes of data.
+
+--- www.digitalocean.com ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 28428ms
+rtt min/avg/max/mdev = 133.370/292.720/1246.637/235.960 ms, pipe 2
+
+
+
+
+yandex.ru, libgen.io, iitg.ac.in, youtube.com, bookmyshow.com
+
+
+
+1000 pings ping -p
+
+PATTERN: 0xff00
+PING 202.141.80.14 (202.141.80.14) 56(84) bytes of data.
+
+--- 202.141.80.14 ping statistics ---
+1000 packets transmitted, 912 received, 8% packet loss, time 1022536ms
+rtt min/avg/max/mdev = 0.166/0.301/4.385/0.218 ms
+
+
+1000 pings ping -n
+
+PING 202.141.80.14 (202.141.80.14) 56(84) bytes of data.
+
+
+--- 202.141.80.14 ping statistics ---
+1000 packets transmitted, 963 received, 3% packet loss, time 1022575ms
+rtt min/avg/max/mdev = 0.159/0.303/6.082/0.252 ms
